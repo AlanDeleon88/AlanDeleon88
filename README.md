@@ -5,11 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on projects from AppAcademy such as my messaging app based off of discord leet-cord! 
+- 🔭 I’m currently working on projects from AppAcademy! Currently focusing on mixNebula, a music player app. 
 - 🌱 I’m currently learning Unity and Unity relay along with solidifying my skills in backend and frontend app development.
 - 📫 How to reach me: 19deleon88@gmail.com
 - ⚡ Fun fact: I worked on a video game that was release to the Nintendo wiiU online store!
 
-## Languages and tools:
-<img align="left" width="126" height="28" src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145">
+## Languages:
+<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
+## Frameworks:
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' /> <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whit' /> <img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' />
+## Tools:
+ <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/> <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=whit'/> <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/> 
+ <img src='https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white'/>
 
