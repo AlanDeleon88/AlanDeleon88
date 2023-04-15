@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanDeleon88&theme=tokyonight" alt="mystreak"/>
 
+![Snake animation](https://github.com/AlanDeleon88/github-readme/blob/output/github-contribution-snake.svg)
+
+
