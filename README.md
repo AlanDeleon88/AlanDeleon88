@@ -18,6 +18,6 @@ Here are some ideas to get you started:
  <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/> <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=whit'/> <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/> 
  <img src='https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white'/>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanDeleon88&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
