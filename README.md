@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects from AppAcademy! Currently focusing on mixNebula, a music player app. 
 - 🌱 I’m currently learning Unity and Unity relay along with solidifying my skills in backend and frontend app development.
 - 📫 How to reach me: 19deleon88@gmail.com
-- ⚡ Fun fact: I worked on a video game that was release to the Nintendo wiiU online store!
+- ⚡ Fun fact: I worked on a video game that was released to the Nintendo wiiU online store!
 
 ## Languages:
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
